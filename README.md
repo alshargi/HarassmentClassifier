@@ -1,13 +1,6 @@
-# ArabicHarassmentClassifier# -*- coding: utf-8 -*-
 
-
-
-
-
-
-
-  # QahtanClassifier
-Arabic Harassment classifier
+  #HarassmentClassifier
+   Arabic Harassment classifier
 
 
 #### install the library:
@@ -18,8 +11,6 @@ pip install git+https://github.com/alshargi/HarassmentClassifier.git
 ```python
 
 from QahtanClassifier import get_pred_label
-
-
 xx = ['ليبراليه شويه صعاليك ',
        ' الاسم شاهين والشكل والتفكير حمار',
       'يلعن امك يا ابن الحمار',
@@ -39,9 +30,6 @@ for i in MyResult:
 
 
 ```
-
-عام ألفين وثلاثة وعشرين
-
 
 
 
